@@ -1,0 +1,28 @@
+h1 {
+  color: blue;
+}
+
+body {
+  background-color: lavender;
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#myTable {
+  padding: 20px;
+}
+
+.boldRow {
+  font-weight: bold;
+}
+
+#redCell {
+  background-color: red;
+}
+
+#yellowText {
+  color: yellow;
+}

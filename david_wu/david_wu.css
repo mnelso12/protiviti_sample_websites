@@ -1,0 +1,27 @@
+#myName
+{
+	color:#000080;
+	margin-bottom: 100px;
+	font-size:100px;
+}
+
+#myworkplace
+{
+	color:orange;
+}
+
+.my-favcolor
+{
+	color:purple;
+}
+
+.my-font-color
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color:red;
+}
+
+body
+{
+   background-color:purple;
+}
